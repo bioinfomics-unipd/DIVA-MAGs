@@ -48,5 +48,6 @@ Minimum number of variants needed to perform scaffold analysis, otherwise discar
 `--min_variants_scaffold`
 
 The script will provide a graph and a table for each MAG. In each graph the involved scaffolds are shown in different colors and separated by vertical lines.
-This should produce a plot similar to the one below.
 
+
+![This should produce a plot similar to the one below.](https://github.com/bioinfomics-unipd/DIVA-MAGs/files/8793610/28xzH2_30.fa_plot.pdf)
