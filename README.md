@@ -47,5 +47,6 @@ Minimum number of variants needed to perform scaffold analysis, otherwise discar
 
 `--min_variants_scaffold`
 
-The script will provide a graph and a table for each MAG. In each graph the involved scaffolds are shown in different colors and separated by vertical lines.
+### Output:
+The script will provide a plot and a tablular output for each MAG. In each graph the involved scaffolds are shown in different colors and separated by vertical lines.
 
