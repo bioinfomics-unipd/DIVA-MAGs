@@ -68,7 +68,8 @@ The script might be run on several samples and the resulted tables and graphs mi
 Here also some examples of the other output files that you will have beside the plots and tables.
 
 For having some information about MAGs:
-' --w '
+
+`--w`
 
 [Example](https://github.com/bioinfomics-unipd/DIVA-MAGs/blob/main/MAG_info.csv)
 
