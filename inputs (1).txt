@@ -1,0 +1,4 @@
+BP1_IS
+C:\Users\ACER\Downloads\BP1_IS_scaffold_info.tsv
+C:\Users\ACER\Downloads\scaffold_to_bin.stb
+C:\Users\ACER\Downloads\BP1_IS_SNVs.tsv
