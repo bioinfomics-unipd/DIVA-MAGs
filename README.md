@@ -65,4 +65,13 @@ It also provides Filtered_scaffold.csv with the list of removed scaffold after c
 
 The script might be run on several samples and the resulted tables and graphs might be easily compare to analyze the different variation of MAGs scaffold.
 
+Here also some examples of the other output files that you will have beside the plots and tables.
 
+For having some information about MAGs:
+' --w '
+[Example](https://github.com/bioinfomics-unipd/DIVA-MAGs/blob/main/MAG_info.csv)
+
+The following output will be generated with plots and give some information about:
+[Discarded scaffolds](https://github.com/bioinfomics-unipd/DIVA-MAGs/commit/c3078b3fcf164191ce43af33b0a7ee2ee3b27ef0)
+[Filtered scaffolds](https://github.com/bioinfomics-unipd/DIVA-MAGs/commit/2aa003e9b3ee394b474f90f43cbea3354282235a)
+[Windows values](https://github.com/bioinfomics-unipd/DIVA-MAGs/commit/9182b453e6de9bdade87b63310f4ec6f0eafcde3)
